@@ -1,9 +1,8 @@
-# 💫 About Me
-- 🎓 Computer Science undergraduate at University of Jaffna
-- 📚 Currently studying HTML5, CSS, and Java ADT
-- 💻 Skilled in Java (OOP), Python, and web development basics
-- 💡 Practicing algorithms and data structures in Java
-- 🚀 Interested in building projects that combine theory with real-world applications
+# 👤 Profile
+- 🌱 Computer Science undergraduate at University of Jaffna
+- 🎯 Currently working on Web Technologies project (HTML5 & CSS)
+- 💻 Building skills in Java, Python, and web development
+- 🚀 Aspiring to contribute to open-source projects
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baskaran-tharmika-81a583282)
